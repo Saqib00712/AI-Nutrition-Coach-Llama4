@@ -1,0 +1,4 @@
+flask
+ibm-watsonx-ai
+pillow
+requests
